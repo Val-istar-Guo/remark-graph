@@ -1,0 +1,8 @@
+mili:
+  version: 2.6.0
+template:
+  repository: https://github.com/Val-istar-Guo/component-template.git
+  version: 1.1.0
+interaction: 97d170e1550eee4afc0af065b78cda302a97674c
+answers:
+
